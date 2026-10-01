@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 219, 169); 
+    margin: 0;
+}
+
+h1 {
+    text-align: center; 
+    padding-top: 20px;
+}
+
+p {
+    position: absolute;       
+    left: 35%;                
+    top: 120px;               
+    font-size: 18px;        
+    width: 300px;            
+}
+
+img {
+    position: absolute;       
+    left: 950px;                
+    top: 90px;               
+    border: 2px solid black; 
+    width: 250px;             
+}
